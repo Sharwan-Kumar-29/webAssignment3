@@ -1,0 +1,164 @@
+*{
+    text-decoration: none;
+    
+}
+.divpart2{
+    margin-top: 68px;
+    
+
+}
+.divpart21{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 170px;
+    
+    
+}
+.divpart2A>h3{
+    margin:20px 0px;
+    font-family: montserrat;
+}
+.divpart2A{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 35px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.color{
+    border: 3px solid rgb(253,181,21);
+    width: 65px;
+    margin: auto;
+    border-radius: 20px;
+    
+}
+.divpart3{
+    margin-top: 180px;
+}
+.divpart31{
+    display: flex;
+    
+    
+    justify-content: space-around;
+    margin-top: 60px;
+    padding-bottom: 40px;
+   
+}
+.divpartA>img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    
+
+}
+.divpartA{
+   
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   overflow: hidden;
+    padding-bottom: 30px;
+    
+
+}
+.divpart3>h2{
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.divpartA p+h3{
+    margin-top: 10px;
+}
+.divpartA h3+h3{
+    margin-bottom: 10px;
+}
+.divpartA >p,h3{
+    margin-left: 18px;
+}
+.form-container{
+    background-color: rgb(255,222,89);
+}
+.inputdiv{
+    text-align: center;
+}
+
+
+.form-container {
+    background-color:white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    margin-left: 100px;
+    margin-top: -100px;
+    
+}
+
+.h2, .h5 {
+    text-align: center;
+    margin: 0;
+}
+
+h5 {
+    margin-top: 10px;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.inputdiv {
+    margin-top: 20px;
+}
+
+.inputdiv label {
+    font-weight: bold;
+}
+
+.inputdiv input[type="text"],
+.inputdiv input[type="email"],
+.inputdiv input[type="tel"] {
+    width: 90%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.button {
+    text-align: center;
+    
+}
+
+.button input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 100px ;
+    margin-bottom: 20px;
+}
+
+.button input[type="submit"]:hover {
+    background-color: #0056b3;
+    
+}
+.main{
+    padding: 160px 450px 40px 450px;
+    background-color: rgb(255,222,89);
+}
+label{
+    display: block;
+    text-align: left;
+    margin-left: 18px;
+}
+footer {
+    background-color: #232323;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    
+    bottom: 0;
+    width: 100%;
+}
